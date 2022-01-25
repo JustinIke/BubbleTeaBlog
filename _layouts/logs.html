@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="post">
+  {%- if page.title -%}
+    <h1 class="post-title">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+  <br>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Location</th>
+      <th>Order</th>
+      <th>Price</th>
+      <th>Pearls</th>
+      <th>Buy Again?</th>
+    </tr>
+    {%- for log in site.logs -%}
+      <tr>
+        <td>{{ log.date | date: date_format }}</td>
+        <td>{{ log.location | escape }}</td>
+        <td><div>{{ log.order }}</div><div class="log-details">{{ log.details }}</div></td>
+        <td>{{ log.price }}</td>
+        <td>{{ log.pearls }}</td>
+        <td>{{ log.buy_again }}</td>
+      </tr>
+    {%- endfor -%}
+  </table>
+</article>

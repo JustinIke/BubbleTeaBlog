@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article class="post">
+  {%- if page.title -%}
+    <h1 class="post-title">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <br>
+
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          
+        <a class="post-link" href="{{ post.url | relative_url }}" tags="{{ post.tags }}">
+          <img class="li-post-image" src="/assets/images/{{ post.image }}">
+          <div class="li-post-text">  
+            <p class="li-post-title">{{ post.title | escape }}</p>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </div>
+        </a>
+          
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</article>
