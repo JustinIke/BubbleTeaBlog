@@ -144,8 +144,8 @@ blockquote {
 }
 
 .post-list > li{
-  margin-bottom: 0px;
-  width: 750px;
+  margin: 0px;
+  width: 80%;
 }
 
 .post-link {
@@ -246,10 +246,6 @@ blockquote {
 
   }
 
-  .site-title, .site-title:visited {
-    text-decoration: none !important;
-  }
- 
   .site-nav .page-link {
       color: $light-text; 
       font-size: 20px;
@@ -442,6 +438,14 @@ table td {
   border-radius: 50%;
   left: -200px;
   box-shadow: 4px 4px 5px $dark-blue;
+}
+
+@media screen and (max-width: 900px) {
+  .bubble {
+    width: 1500px;
+    height: 300px;
+    left: 0px;
+  }
 }
 
 .log-details {
