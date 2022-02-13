@@ -121,6 +121,10 @@ blockquote {
   margin-bottom: 1.5rem;
 }
 
+.post {
+  overflow-x: scroll;
+}
+
 .post-title {
   letter-spacing: -6px;
   font-size: 5rem;
@@ -243,7 +247,7 @@ blockquote {
   .site-title, .site-title:visited {
     font-size: 28px;
     color: $light-text;
-
+    max-width: 65%;
   }
 
   .site-nav .page-link {
@@ -274,7 +278,7 @@ blockquote {
       position: absolute;
       background-color: $background;
       border: 1px solid #d8d8d8; 
-      top: 25px;
+      top: 30px;
     }
 
     .site-nav .menu-icon > svg {
@@ -349,6 +353,7 @@ table {
   color: $text;
   border-collapse: collapse;
   border: none; 
+  white-space: nowrap;
 }
 
 table tr {
