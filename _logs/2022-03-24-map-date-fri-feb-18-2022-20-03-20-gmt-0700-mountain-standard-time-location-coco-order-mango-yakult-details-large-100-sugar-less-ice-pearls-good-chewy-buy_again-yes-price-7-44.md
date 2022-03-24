@@ -5,5 +5,5 @@ order: Mango Yakult
 details: Large, 100% sugar, Less ice
 price: $7.44
 pearls: Good, chewy
-buy_again: Yes
+buy_again: Y
 ---
