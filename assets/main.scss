@@ -121,10 +121,6 @@ blockquote {
   margin-bottom: 1.5rem;
 }
 
-.post {
-  overflow-x: auto;
-}
-
 .post-title {
   letter-spacing: -6px;
   font-size: 5rem;
@@ -456,4 +452,8 @@ table td {
 .log-details {
   font-size: 13px;
   margin-top: -8px;
+}
+
+.TableWrapper {
+  overflow-x: auto;
 }
