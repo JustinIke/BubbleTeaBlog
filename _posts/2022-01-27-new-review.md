@@ -2,6 +2,7 @@
 layout: post
 title: Intro
 date: 2022-03-24T03:50:03.949Z
+image: /assets/images/favicon.png
 ---
 Hi. I'm Angelina and this is my bubble tea blog. Here, I will be reviewing bubble tea drinks that I buy and writing about my adventures with the wonderful beverage.
 
