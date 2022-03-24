@@ -1,9 +1,9 @@
 ---
-date: 2021-10-02 16:27:00
+date: 2022-01-16T23:27:00.000Z
 location: Chatime
 order: Pearl Milk Tea
-price: $5
+details: Large, 100% sugar. No ice
+price: $6.20
 pearls: Good
-buy_again: "Yes"
-details: "Less Ice, 100% sugar"
+buy_again: Yes
 ---
