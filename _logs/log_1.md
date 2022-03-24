@@ -5,5 +5,5 @@ order: Pearl Milk Tea
 details: Regular, 100% sugar, No ice
 price: Free (points)
 pearls: Chewy with hard center
-buy_again: Yes
+buy_again: Y
 ---
