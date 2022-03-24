@@ -1,8 +1,9 @@
 ---
-date: 2022-10-02 16:27:00
-location: Gong Cha
-order: Mango Lychee
-price: $7
-pearls: Good
-buy_again: "Yes"
+date: 2022-01-31T21:56:00.000Z
+location: Chatime
+order: Pearl Milk Tea
+details: Regular, 100% sugar, No ice
+price: Free (points)
+pearls: Chewy with hard center
+buy_again: Yes
 ---
