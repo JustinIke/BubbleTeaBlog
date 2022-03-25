@@ -16,6 +16,10 @@ It was free and free drinks taste better than drinks I have to pay for. Got to l
 **Atmosphere**\
 The store was clean with most of the chairs were up on the tables, which isn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
 
+They still had their Christmas tree up, but who really like taking down a Christmas tree? It is only really fun to put up and decorate.
+
+This shop had little drawings on sticky notes lined up on the window. Some were cute, some were funny and most were drawn really well. I definitely can not draw that well so I applaud whoever drew these.
+
 Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink.
 
 **Final Words**\
