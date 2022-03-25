@@ -7,7 +7,7 @@ image: /assets/images/img_9728.jpg
 **Customs:** 100% sugar, No ice
 
 **Taste**\
-This drink is a regular order for me. It is my go-to for when I do not want something fruity or to try anything new. It always tastes the similar every time - like a classic milk tea. 
+This drink is a regular order for me. It is my go-to for when I do not want something fruity or new. It always tastes the similar every time - like a classic milk tea. 
 
 The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like me pearls fresh and chewy, so these ones were fine to me.
 
