@@ -9,7 +9,7 @@ image: /assets/images/img_9728.jpg
 **Taste**\
 This drink is a regular order for me. It is my go-to for when I do not want something fruity or new. It always tastes the similar every time - like a classic milk tea. 
 
-The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like me pearls fresh and chewy, so these ones were fine to me.
+The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like my pearls fresh and chewy, so these ones were fine to me.
 
 The drink was still cold even though there was no ice in it. She filled it to the top, so you get more tea when you order no ice. I've never ordered no ice before, but this is a game changer for me.
 
@@ -31,4 +31,4 @@ This shop had little drawings on sticky notes lined up on the screen. Some were 
 Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink.
 
 **Final Words**\
-Overall, it was decent and would get this combination again!
+Overall, it was decent and I would get this combination again!
