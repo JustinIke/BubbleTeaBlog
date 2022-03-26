@@ -15,7 +15,7 @@ The drink was still cold even though there was no ice in it. She filled it to th
 
 It was free and free drinks taste better than drinks I have to pay for. Got to love Chatime rewards!
 
-{% include image.html url="/assets/images/img_9729.jpg"  description="" style="zoom:10%;" %}
+{% include image.html url="img_9729.jpg"  description="" style="zoom:10%;" %}
 
 **Atmosphere**\
 The store was clean with most of the chairs up on the tables, which isn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
@@ -24,7 +24,7 @@ They still had their Christmas tree up, but who really like taking down a Christ
 
 This shop had little drawings on sticky notes lined up on the screen. Some were cute, some were funny and most were drawn really well. I definitely can not draw that well so I applaud whoever drew these.
 
-{% include two-image.html url1="/assets/images/img_9724.jpg" url2="/assets/images/img_9725.jpg" description1="" description2="" %}
+{% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" description1="" description2="" %}
 
 Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink!
 
