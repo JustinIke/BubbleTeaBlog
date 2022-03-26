@@ -18,7 +18,7 @@ layout: default
         
         <a class="post-link" href="{{ post.url | relative_url }}">
 
-            <img class="li-post-image" src="/assets/images/{{ post.image }}">
+            <img class="li-post-image" src="{{ post.image }}">
             <div class="li-post-text">  
               <p class="li-post-title">{{ post.title | escape }}</p>
               <span class="post-meta">{{ post.date | date: date_format }}</span>
