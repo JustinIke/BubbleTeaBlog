@@ -14,3 +14,6 @@ The presentation was cute because of the thin slices of fruit on the top (looked
 The stand had Christmas and Easter decor. The sign with their name/logo is clean and slick. I love the play-on words. The lettering on the menu is neat and readable.  I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
 
 There was only one worker so I had to wait for him to take my order after he was done making bubble tea for the customers before me. I felt sort of bad because if I were in his place, it would be stressful to be myself.
+
+**Final Words**\
+I started a stamp card. Let's see if I use it again!
