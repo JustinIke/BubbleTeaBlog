@@ -28,7 +28,7 @@ This shop had little drawings on sticky notes lined up on the screen. Some were 
 
 ![](/assets/images/img_9725.jpg)
 
-Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink.
+Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink!
 
 **Final Words**\
 Overall, it was decent and I would get this combination again!
