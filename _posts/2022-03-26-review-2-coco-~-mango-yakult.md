@@ -7,13 +7,16 @@ image: /assets/images/img_9758.jpg
 **Customs:** 100% sugar, Less ice
 
 **Taste**\
-I have gotten this before, but in a slushie form. I love mango so I wasn't surprised when I took the first sip that I immediately fell in love with this drink. It is not sour and tastes very fruity and sweet. The liquid is cloudy so you can tell there is Yakult in it and not just a plain mango drink. It is not too milky, but still gives hints of Yakult. I think the Yakult adds to the sweetness. I would try getting 75% sugar next time. The mango chunks are a nice touch; it feels like you get an extra topping. 
+I have gotten this before, but in a slushie form. I love mango so I wasn't surprised when I took the first sip that I immediately fell in love with this drink. It is not sour and tastes very fruity and sweet. It is not too milky, but still gives hints of Yakult. I think the Yakult adds to the sweetness. I would try getting 75% sugar next time. The mango chunks are a nice touch; it feels like you get an extra topping. 
 
 The pearls were chewy and just the right size. They were not cold or hard, even though they have been submerged in a cold drink. CoCo pearls are my favourite pearls from a franchise. They have never disappointed me, except that one time my sister's finacee got me boba. I asked for tapioca pearls and got sago, but that wasn't a CoCo problem, it was just miscommunication between him and I.
 
 Side note: I also took a sip of the mango green tea that my partner ordered. I am not the biggest fan. The green tea flavour is strong and overrides the mango. However, switching from my drink to his might have given me the wrong impression because my drink had a distinct mango flavour. I may possibly give the mango green tea another try when I haven't had any other mango drinks beforehand that day.
 
 {% include image.html url="img_9870.jpg" style="zoom:10%;" %}
+
+**Look**\
+The liquid is cloudy so you can tell there is Yakult in it and not just a plain mango drink. The cups are tall and skinny. I like how the design ono the cup is simple and not too crazy. I think it would be interesting to measure and compare a large Chatime and a large Coco to see who gives out more bang for your buck.
 
 **Atmosphere**\
 It was a little busy on this Friday evening. They had a few tables out so my cousins and I sat there while we waited for our drinks. I don't remember much about the environment and the music. It is more fun getting boba with people, instead of by myself when I have a craving.
