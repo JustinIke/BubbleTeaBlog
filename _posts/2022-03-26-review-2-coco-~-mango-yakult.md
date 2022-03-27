@@ -18,7 +18,7 @@ Side note: I also took a sip of the mango green tea that my partner ordered. I a
 **Atmosphere**\
 It was a little busy on this Friday evening. They had a few tables out so my cousins and I sat there while we waited for our drinks. I don't remember much about the environment and the music. It is more fun getting boba with people, instead of by myself when I have a craving.
 
-{% include two-image.html url1="img_9761.jpg" url2="img_9766.jpg" description1= "\*brain freeze\*" description2="Her: spills her drink, Me: \*laughs\*" %}
+{% include two-image.html url1="img_9761.jpg" url2="img_9766.jpg" description1= "brain f r e e z e" description2="Her: spills her drink, Me: laughs" %}
 
 *Why did we come here?*\
 *We came here after a funeral viewing. It is a Filipino superstition that you can not go back home right after a funeral. You have to "pagpag" before going home. Pagpag means "to shake off." For example you would pagpag a rug to get the dirt or dust out. In this way, we are shaking off any "spirits" that may have followed us.*\
