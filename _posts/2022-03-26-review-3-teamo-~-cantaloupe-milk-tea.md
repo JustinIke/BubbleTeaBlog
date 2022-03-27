@@ -2,6 +2,7 @@
 layout: post
 title: "Review #3: TeAmo ~ Cantaloupe Milk Tea"
 date: 2022-03-13T19:28:30.720Z
+image: /assets/images/img_9834.jpg
 ---
 **Taste**\
 Fresh fruit was used (I saw him use a real cantaloupe, not frozen or powder). Basically, the drink tasted like what a cantaloupe tastes like with tiny hints of tea. Sips without crushed ice gave more of a tea flavour. It wasn't too sugary. This is a type of drink I would get again on a hot summer day, because the fresh fruit and ice are refreshing; it isn't sour like lemonade. Kind of reminded me of the cantaloupe juice my mom used to make for me as a kid.
