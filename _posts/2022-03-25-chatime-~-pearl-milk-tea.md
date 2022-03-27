@@ -7,15 +7,15 @@ image: /assets/images/img_9728.jpg
 **Customs:** 100% sugar, No ice
 
 **Taste**\
-This drink is a regular order for me. It is my go-to for when I do not want something fruity or new. It always tastes the similar every time - like a classic milk tea. 
+This drink is a regular order for me. It is my go-to for when I do not want something fruity or new. It always tastes the similar every time - like a classic milk tea.
+
+{% include image.html url="img_9729.jpg"  description="" align="right" style="zoom:10%;padding-left:5%;" parent-style="padding:0" %}
 
 The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like my pearls fresh and chewy, so these ones were only fine to me.
 
 The drink was still cold even though there was no ice in it. She filled it to the top, so you get more tea when you order no ice. I've never ordered no ice before, but this is a game changer for me.
 
 It was free and free drinks taste better than drinks I have to pay for. Got to love Chatime rewards!
-
-{% include image.html url="img_9729.jpg"  description="" style="zoom:10%;" %}
 
 **Atmosphere**\
 The store was clean with most of the chairs up on the tables, which isn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
