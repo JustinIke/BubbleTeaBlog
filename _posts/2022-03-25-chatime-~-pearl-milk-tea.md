@@ -24,7 +24,7 @@ They still had their Christmas tree up, but who really like taking down a Christ
 
 This shop had little drawings on sticky notes lined up on the screen. Some were cute, some were funny and most were drawn really well. I definitely can not draw that well so I applaud whoever drew these.
 
-{% include two-image.html url1="img_9724.jpg" url2="img_9728.jpg" description1="" description2="" %}
+{% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" description1="" description2="" %}
 
 Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink.
 
