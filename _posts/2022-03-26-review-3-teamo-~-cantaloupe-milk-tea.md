@@ -9,9 +9,9 @@ Fresh fruit was used (I saw him use a real cantaloupe, not frozen or powder). Ba
 
 The pearls were not fresh and not plentiful. They were still chewy and not doughy. This order comes with the pearls. Extra toppings are $0.75. If I were to get this again, I would want more pearls, but don't know if I want to pay for extra them...
 
-The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. My drink did not look like their advertisement.
-
 {% include image.html url="img_9835.jpg"  description="" align="right" style="zoom:10%;padding-left:5%;" parent-style="padding:0" %}
+
+The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. My drink did not look like their advertisement.
 
 **Atmosphere**
 
