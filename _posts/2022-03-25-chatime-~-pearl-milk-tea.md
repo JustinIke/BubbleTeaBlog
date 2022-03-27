@@ -24,7 +24,7 @@ They still had their Christmas tree up, but who really like taking down a Christ
 
 This shop had little drawings on sticky notes lined up on the screen. Some were cute, some were funny and most were drawn really well. I definitely can not draw that well so I applaud whoever drew these.
 
-![](/assets/images/img_9725.jpg)
+![](/assets/images/img_9724.jpg)
 
 {% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" description1="" description2="" %}
 
