@@ -13,13 +13,10 @@ The pearls were not fresh and not plentiful. They were still chewy and not dough
 
 The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. My drink did not look like their advertisement.
 
-**Atmosphere**
+**Atmosphere**\
+The stand had Christmas and Easter decoration. The sign with their name/logo is clean and slick. I love the play-on words. The lettering on the menu is neat and readable.  I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
 
-{% include image.html url="img_9833.jpg" style="zoom:10%;" %}
-
-The stand had Christmas and Easter decor. The sign with their name/logo is clean and slick. I love the play-on words. The lettering on the menu is neat and readable.  I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
-
-{% include image.html url="img_9832.jpg" style="zoom:10%;" %}
+{% include image.html url="img_9832.jpg"  description="" align="right" style="zoom:10%;padding-left:5%;" parent-style="padding:0" %}
 
 There was only one worker so I had to wait for him to take my order after he was done making bubble tea for the customers before me. I felt sort of bad because if I were in his place, it would be stressful to be myself.
 
