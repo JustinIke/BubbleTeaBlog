@@ -16,7 +16,7 @@ Side note: I also took a sip of the mango green tea that my partner ordered. I a
 {% include image.html url="img_9870.jpg" style="zoom:10%;" %}
 
 **Look**\
-The liquid is cloudy so you can tell there is Yakult in it and not just a plain mango drink. The cups are tall and skinny. I like how the design ono the cup is simple and not too crazy. I think it would be interesting to measure and compare a large Chatime and a large Coco to see who gives out more bang for your buck.
+The liquid is cloudy so you can tell there is Yakult in it and not just a plain mango drink. The cups are tall and skinny. I like how the design on the cup is simple and not too crazy. I think it would be interesting to measure and compare a large Chatime and a large Coco to see who gives out more bang for your buck.
 
 **Atmosphere**\
 It was a little busy on this Friday evening. They had a few tables out so my cousins and I sat there while we waited for our drinks. I don't remember much about the environment and the music. It is more fun getting boba with people, instead of by myself when I have a craving.
