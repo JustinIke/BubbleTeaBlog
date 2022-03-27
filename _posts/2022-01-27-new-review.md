@@ -16,4 +16,4 @@ My partner is a software developer and offered to help make me a website. To be 
 
 *Disclaimer: The photos will not be professional and "instagram-worthy." This blog will just be a fun place to share my experiences. I do not want to impede on the fun by being that girl who takes forever to get the perfect photo.*
 
-If you would like to help fund my new hobby of reviewing bubble tea, you can e-transfer me. I AM JUST KIDDING :P
+If you would like to help fund my new hobby of reviewing bubble tea, you can e-transfer me. I AM JUST KIDDING, don't do that :P
