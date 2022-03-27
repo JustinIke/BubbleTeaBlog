@@ -4,7 +4,7 @@ title: Hello to my 5 readers
 date: 2022-01-30T16:50:03.949Z
 image: /assets/images/favicon.png
 ---
-Hi. I'm Angelina and this is my bubble tea blog. Here, I will be reviewing bubble tea drinks that I buy and writing about my adventures with the wonderful beverage.
+Hi. I'm Angelina and this is my bubble tea blog. Here, I will be reviewing bubble tea drinks that I buy and writing about my adventures with the wonderful beverage. I hope it inspires you to try new bubble tea flavours.
 
 **So why bubble tea?**\
 It is my go-to drink. I once bought a bag of pearls bigger than my head so I could make it at home everyday and not spend so much $$. Whenever I travel, I always try to find local boba shops to try out.\
