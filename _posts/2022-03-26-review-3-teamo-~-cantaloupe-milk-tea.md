@@ -21,4 +21,4 @@ The stand had Christmas and Easter decoration. The sign with their name/logo is 
 There was only one worker so I had to wait for him to take my order after he was done making bubble tea for the customers before me. I felt sort of bad because if I were in his place, it would be stressful to be myself.
 
 **Final Words**\
-I started a stamp card. Let's see if I use it again!
+Not bad for a local shop #shoplocal. I started a stamp card. Let's see if I remember to use it again!
