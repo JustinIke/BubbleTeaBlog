@@ -15,7 +15,7 @@ The pearls were chewy, but a bit hard in the center when you bite down on them. 
 
 The drink was still cold even though there was no ice in it. She filled it to the top, so you get more tea when you order no ice. I've never ordered no ice before, but this is a game changer for me.
 
-It was free and free drinks taste better than drinks I have to pay for. Got to love Chatime rewards.
+It was free and free drinks taste better than drinks I have to pay for. Got to love Chatime rewards!
 
 **Atmosphere**\
 The store was clean with most of the chairs up on the tables, which isn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
@@ -26,7 +26,7 @@ This shop had little drawings on sticky notes lined up on the screen. Some were 
 
 {% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" description1="" description2="" %}
 
-Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink!
+Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink.
 
 **Final Words**\
 Overall, it was decent and I would get this combination again!
