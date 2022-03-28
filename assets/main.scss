@@ -462,6 +462,24 @@ table td {
   overflow-x: auto;
 }
 
-.flex {
+.two-image-flex {
   display: flex;
+}
+
+@media screen and (max-width: 1000px) { 
+  .two-image-flex {
+    display: block;
+  }
+}
+
+.two-image-flex-div {
+  flex-grow: 1;
+  flex-basis: 0;
+  min-width: 0;
+}
+
+@media screen and (max-width: 600px) {
+  figure img {
+    float: none !important;
+  }
 }
