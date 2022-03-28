@@ -16,8 +16,7 @@ Side note: I had a few sips of the strawberry puree assam black tea. It was alri
 **Look**\
 The cups were good quality as the plastic was hard and no flimsy. I feel the cup could be reused if you wanted to keep it and wash it. The lids had cute little heart caps on them. Even though the straws were made out of plants, they were still strong. They do not disintegrate like how paper straws do when they are left in a liquid for a prolonged time.
 
-**Atmosphere**
-
+**Atmosphere**\
 {% include image.html url="img_9853.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}\
 The restaurant is a cute little place. They do not have much seating, so I would make a reservation the next time or not come during prime time. We sat at the bar which I don't mind. There was a secret built-in hook under the counter for us to hang our coats. I found it very handy as we did not have backs to our stools. The server made the bubble tea right in front of us. It was cool to see the process. She used a cocktail shaker to mix the drinks.
 
