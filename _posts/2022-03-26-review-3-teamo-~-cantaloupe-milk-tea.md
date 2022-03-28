@@ -7,7 +7,7 @@ image: /assets/images/img_9834.jpg
 **Taste**\
 Fresh fruit was used (I saw him use a real cantaloupe, not frozen or powder). Basically, the drink tasted like what a cantaloupe tastes like with tiny hints of tea. Sips without crushed ice gave more of a tea flavour. It wasn't too sugary. This is a type of drink I would get again on a hot summer day, because the fresh fruit and ice are refreshing; it isn't sour like lemonade. Kind of reminded me of the cantaloupe juice my mom used to make for me as a kid.
 
-{% include image.html url="img_9835.jpg"  description="" align="right" style="zoom:10%;padding-left:5%;" parent-style="padding:0" %}
+{% include image.html url="img_9835.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}
 
 The pearls were not fresh and not plentiful. They were still chewy and not doughy. This order comes with the pearls. Extra toppings are $0.75. If I were to get this again, I would want more pearls, but don't know if I want to pay for extra them...
 

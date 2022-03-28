@@ -9,7 +9,7 @@ image: /assets/images/img_9728.jpg
 **Taste**\
 This drink is a regular order for me. It is my go-to for when I do not want something fruity or new. It always tastes the similar every time - like a classic milk tea.
 
-{% include image.html url="img_9729.jpg"  description="" align="right" style="zoom:10%;padding-left:5%;" parent-style="padding:0" %}
+{% include image.html url="img_9729.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}
 
 The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like my pearls fresh and chewy, so these ones were only fine to me.
 
@@ -24,7 +24,7 @@ They still had their Christmas tree up, but who really like taking down a Christ
 
 This shop had little drawings on sticky notes lined up on the screen. Some were cute, some were funny and most were drawn really well. I definitely can not draw that well so I applaud whoever drew these.
 
-{% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" description1="" description2="" %}
+{% include two-image.html url1="img_9724.jpg" url2="img_9725.jpg" style1="height:300px;" style2="height:300px;" description1="" description2="" %}
 
 Music was good. The worker was singing under her breath while I was deciding what to order. I was also quietly jamming as I waiting for my drink. Also, I didn't have to wait very long for my drink.
 
