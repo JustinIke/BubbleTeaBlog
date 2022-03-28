@@ -11,7 +11,7 @@ Their classic powder taro milk tea was a moderately watery and milky. The tapioc
 
 {% include image.html url="img_9899.jpg" style="zoom:10%;" %}
 
-Side note: I got the drink Eternal Love with tapioca pearls to-go for my partner. It is mango and lychee fruit syrup blended with ice. I've had this before. It is pretty sugary.
+Side note: I got the drink Eternal Love with tapioca pearls to-go for my partner. It is mango and lychee fruit syrup blended with ice. I've had this before and enjoyed it. It is pretty sugary though.
 
 **Look**\
 I appreciate the effort to colour coordinate the straws to the colour of the drink. They used to give us our pearls separate from our drink, in a small dish. This did not happen. I liked feature because I could portion my pearls and make sure I had some throughout the entire meal.
