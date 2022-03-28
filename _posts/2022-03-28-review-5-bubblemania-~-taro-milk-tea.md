@@ -25,7 +25,7 @@ The people working their are always attractive Asians. They were wearing masks s
 
 The server asked gave us a choice to use online ordering or order through him. We went for the in-person experience. The food and drinks came out really fast. Their plates have their logos on them now. However, they are smaller resulting in a smaller portion size in the house special fried rice that we shared.
 
-We came here because of the free ranch. We were comparing prices to another place we were planning on going to and realized on the menu that states that you can get 1 free ranch dip with every plate of wings you order. All this time we thought ranch was included in the dips that you have to pay for! We decided to not to go to the other restaurant and try the free ranch.
+We came here because of the free ranch. We were comparing prices to another place we were planning on going to and realized on the menu states that you can get 1 free ranch dip with every plate of wings you order. All this time we thought ranch was included in the dips that you have to pay for! We decided to not to go to the other restaurant and try the free ranch.
 
 **Final Words**\
 I didn't finish my drink which is rare. I am not going to boycott bubbles, because it might've been the milk and my body was just having a lactose-intolerant day.
