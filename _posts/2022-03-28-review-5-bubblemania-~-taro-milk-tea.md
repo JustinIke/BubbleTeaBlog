@@ -5,9 +5,9 @@ date: 2022-03-27T19:34:57.046Z
 image: /assets/images/img_9896.jpg
 ---
 **Taste**\
-Bubblemania Cafe was a go-to spot for my friends or cousins and I (started in junior high). As a kid, I thought this was the best bubble tea. Granted I haven't experienced anywhere else at the time. It is not as good as I remember. I still go this restaurant but not as often as I used to. Before this Sunday, I haven't been since March 5, 2020.
+Bubblemania Cafe was a go-to spot for my friends or cousins and I (started in junior high). As a kid, I thought this was the best bubble tea. Granted I haven't experienced anywhere else at the time. I still go this restaurant but not as often as I used to. Before this Sunday, I haven't been since March 5, 2020.
 
-Today, I will be reviewing their classic powder taro milk tea that I have had before in the hot and cold forms. It was a moderately watery and milky. The tapioca pearls were slimy and sticky; I could feel their residue on my teeth. They were soggy on the outside and hard in the center (not fresh). The pearls were not sweet and didn't taste like much. It was like I was just chewing on rubber.
+Today, I will be reviewing their classic powder taro milk tea that I have had before in the hot and cold forms. It was a moderately watery and milky. The tapioca pearls were slimy and sticky; I could feel their residue on my teeth. They were soggy on the outside and hard in the center (not fresh). The pearls were not sweet and didn't taste like much. It was like I was just chewing on rubber. This boba isn't as good as I remember.
 
 {% include image.html url="img_9899.jpg" style="zoom:10%;" %}
 
