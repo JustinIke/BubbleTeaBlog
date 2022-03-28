@@ -15,7 +15,7 @@ The pearls were not fresh and not plentiful. They were still chewy and not dough
 The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. My drink did not look like their advertisement.
 
 **Atmosphere**\
-The stand had Christmas and Easter decoration; I don't know what holiday they are trying to celebrate. The sign with their name/logo is clever and clean. I love the play-on words. The lettering on the menu is neat and readable.  I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
+The stand had Christmas and Easter decoration; I don't know what holiday they are trying to celebrate. The sign with their name/logo is clever and clean. I love the play-on words. The lettering on the menu is neat and readable, but they spelled pineapple wrong. I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
 
 {% include image.html url="img_9832.jpg" style="zoom:10%;" %}
 
