@@ -23,7 +23,7 @@ The restaurant is a cute little place. They do not have much seating, so I would
 
 They Rocky Mountain Soap in their bathroom - definitely get brownie points from me for the fancy soap. The bathroom was not the most aesthetic thing as they had extra chairs and furniture stored in there.
 
-The plate-setting for my ramen was a cute board made out of recycled chopsticks. A bunch of their stuff was made out of recycled chopsticks. They had a sign made out of chopsticks saying they recycled 9967 chopsticks in 2021 with ChopValue YYC. When I went home, I google this company and am now planning on buying a cheese board for someone's birthday.
+The plate-setting for my ramen was a cute board made out of recycled chopsticks. A bunch of their stuff was made out of recycled chopsticks. They had a sign made out of chopsticks saying they recycled 9967 chopsticks in 2021 with ChopValue YYC. When I went home, I googled this company and am now planning on buying a cheese board for someone's birthday.
 
 {% include image.html url="img_9859.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}
 
