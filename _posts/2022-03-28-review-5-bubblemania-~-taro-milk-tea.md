@@ -21,7 +21,7 @@ I appreciate the effort to colour coordinate the straws to the colour of the dri
 **Atmosphere**\
 The people working their are always attractive Asians. They were wearing masks so it was hard to see if they were my best friend's type. Our server was nice and friendly as I embarrassed myself by outwardly commenting on how I was full. I accidentally kicked him as I was getting out of the booth to let my friend in.
 
-{% include image.html url="img_9897.jpg" style="zoom:10%;" %}
+{% include image.html url="img_9897.jpg" style="zoom:10%;" description="wings, wings, wings, & more wings" %}
 
 The server asked gave us a choice to use online ordering or order through him. We went for the in-person experience. The food and drinks came out really fast. Their plates have their logos on them now. However, they are smaller resulting in a smaller portion size in the house special fried rice that we shared.
 
