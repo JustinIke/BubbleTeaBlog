@@ -12,14 +12,16 @@ Fresh fruit was used (I saw him use a real cantaloupe, not frozen or powder). Ba
 The pearls were not fresh and not plentiful. They were still chewy and not doughy. This order comes with the pearls. Extra toppings are $0.75. If I were to get this again, I would want more pearls, but don't know if I want to pay for extra them...
 
 **Look**\
-The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. My drink did not look like their advertisement.
+The presentation was cute because of the thin slices of fruit on the top (looked better before he put on the lid). It is interesting how they put the pearls on the top  of the drink. I have never seen this before. 
+
+My drink did not look like their advertisement. The crushed ice floated on top of the cup and took about 1/3 of its space. You could see the separation between the ice and liquid. The appearance of the crushed ice was not super appealing.
 
 **Atmosphere**\
-The stand had Christmas and Easter decoration; I don't know what holiday they are trying to celebrate. The sign with their name/logo is clever and clean. I love the play-on words. The lettering on the menu is neat and readable, but they spelled pineapple wrong. I like the use of acid-free paper. It is awkward that you can see everything in the shop; they could be a bit more tidy.
+The stand had Christmas and Easter decoration; I don't know what holiday they are trying to celebrate. It is awkward that you can see everything in the shop; they could be a bit more tidy. The sign with their name/logo is clever and clean. I love the play-on words. The lettering on the menu is neat and readable, but they spelled pineapple wrong. I like the use of acid-free paper.
 
 {% include image.html url="img_9832.jpg" style="zoom:10%;" %}
 
-There was only one worker so I had to wait for him to take my order after he was done making bubble tea for the customers before me. I felt sort of bad because if I were in his place, it would be stressful to be myself.
+There was only one worker so I had to wait for him to take my order after he was done making bubble tea for the customers before me. I felt sort of bad because if I were in his place, it would be stressful to be myself. My partner sat and ate tacos at a table near their booth. There was a point where the worker left and potential customers ended up leaving after a few minutes of waiting at the till.
 
 **Final Words**\
 Not bad for a local shop #shoplocal. I started a stamp card. Let's see if I remember to use it again!
