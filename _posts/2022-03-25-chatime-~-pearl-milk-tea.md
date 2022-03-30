@@ -18,7 +18,7 @@ The drink was still cold even though there was no ice in it. She filled it to th
 It was free and free drinks taste better than drinks I have to pay for. Got to love Chatime rewards!
 
 **Atmosphere**\
-The store was clean with most of the chairs up on the tables, which isn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
+The store was clean with most of the chairs up on the tables, which wasn't the most visually appealing. However, we are in a COVID world that does not allow much indoor dining. Hopefully this pandemic is over soon and we can sit and chat and enjoy boba with our friends.
 
 They still had their Christmas tree up, but who really likes taking down a Christmas tree? It is only really fun to put up and decorate.
 
