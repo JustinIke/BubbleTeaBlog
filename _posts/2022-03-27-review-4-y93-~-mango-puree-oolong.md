@@ -14,7 +14,7 @@ The pearls were quite small and a bit soggy, but still chewy. The tiny apple sli
 Side note: I had a few sips of the strawberry puree assam black tea. It was alright. It  first gave off a tea flavour and ended with a strawberry aftertaste.
 
 **Look**\
-The cups were good quality as the plastic was hard and no flimsy. I feel the cup could be reused if you wanted to keep it and wash it. The lids had cute little heart caps on them. Even though the straws were made out of plants, they were still strong. They did not disintegrate like how paper straws do when they are left in a liquid for a prolonged time.
+The cups were good quality as the plastic was hard and not flimsy. I feel the cup could be reused if you wanted to keep it and wash it. The lids had cute little heart caps on them. Even though the straws were made out of plants, they were still strong. They did not disintegrate like how paper straws do when they are left in a liquid for a prolonged time.
 
 {% include image.html url="img_9853.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}
 
