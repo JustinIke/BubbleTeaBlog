@@ -4,6 +4,6 @@ location: Bubblemania
 order: Taro Milk Tea
 details: " Cold"
 price: $5.78
-pearls: Slimy, hard center
+pearls: Tapioca Pearls
 buy_again: Maybe
 ---
