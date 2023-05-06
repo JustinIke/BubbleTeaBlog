@@ -4,6 +4,6 @@ location: Wishing Tea
 order: Black Sugar Boba Milk Tea
 details: Hot
 price: $8.39
-pearls: Crystal Ball
+pearls: Crystal Balls
 buy_again: Y
 ---
