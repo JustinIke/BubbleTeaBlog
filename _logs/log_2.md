@@ -4,6 +4,6 @@ location: Chatime
 order: Pearl Milk Tea
 details: Large, 100% sugar. Less ice
 price: $6.20
-pearls: Fresh, chewy
+pearls: Tapioca Pearls
 buy_again: Y
 ---
