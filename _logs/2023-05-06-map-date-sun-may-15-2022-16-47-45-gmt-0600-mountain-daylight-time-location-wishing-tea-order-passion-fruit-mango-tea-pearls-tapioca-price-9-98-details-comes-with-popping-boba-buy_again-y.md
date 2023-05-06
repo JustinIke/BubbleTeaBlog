@@ -4,6 +4,6 @@ location: Wishing Tea
 order: Passion Fruit Mango Tea
 details: Comes with popping boba
 price: $9.98
-pearls: Tapioca
+pearls: Tapioca Balls
 buy_again: Y
 ---
