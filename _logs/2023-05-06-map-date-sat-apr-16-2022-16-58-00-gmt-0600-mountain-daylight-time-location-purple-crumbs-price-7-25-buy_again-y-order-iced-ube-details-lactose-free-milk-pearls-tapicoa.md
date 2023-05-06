@@ -4,6 +4,6 @@ location: Purple Crumbs
 order: Iced Ube
 details: Lactose Free Milk
 price: $7.25
-pearls: Tapioca
+pearls: Tapioca Pearls
 buy_again: Y
 ---
