@@ -4,6 +4,6 @@ location: TeAmo
 order: Cantaloupe Milk Tea
 details: Large
 price: $7.19
-pearls: Chewy, not enough
+pearls: Tapioca Pearls
 buy_again: Maybe
 ---
