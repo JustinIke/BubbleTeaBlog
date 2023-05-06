@@ -5,5 +5,5 @@ order: Passion Fruit Mango Tea
 details: Comes with popping boba
 price: $9.98
 pearls: Tapioca
-buy_again: Yes
+buy_again: Y
 ---
