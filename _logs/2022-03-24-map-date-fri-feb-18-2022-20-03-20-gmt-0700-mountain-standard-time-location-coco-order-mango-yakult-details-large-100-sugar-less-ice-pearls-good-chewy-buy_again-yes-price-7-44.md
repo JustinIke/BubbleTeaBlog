@@ -4,6 +4,6 @@ location: CoCo
 order: Mango Yakult
 details: Large, 100% sugar, Less ice
 price: $7.44
-pearls: Good, chewy
+pearls: Tapioca Pearls
 buy_again: Y
 ---
