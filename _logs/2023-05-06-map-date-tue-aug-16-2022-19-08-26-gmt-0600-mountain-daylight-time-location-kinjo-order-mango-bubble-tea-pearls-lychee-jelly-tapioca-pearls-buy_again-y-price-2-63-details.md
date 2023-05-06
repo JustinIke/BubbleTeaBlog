@@ -1,9 +1,9 @@
 ---
-date: 2022-08-17T01:08:26.098Z
+date: 2022-07-23T19:23:26.098Z
 location: Kinjo
-order: Mango Bubble Tea
+order: Milk Tea
 details: " "
 price: $2.63
-pearls: Lychee Jelly, Tapioca Pearls
-buy_again: Y
+pearls: Tapioca Pearls
+buy_again: Maybe
 ---
