@@ -4,6 +4,6 @@ location: Y93
 order: Mango Puree Oolong
 details: " "
 price: $6.83
-pearls: Small, soggy
+pearls: Tapioca Pearls
 buy_again: Maybe
 ---
