@@ -11,7 +11,7 @@ This drink is a regular order for me. It is my go-to for when I do not want some
 
 {% include image.html url="img_9729.jpg"  description="" style="zoom:10%;padding-left:5%;float:right;" parent-style="padding:0" %}
 
-The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like my pearls fresh and chewy, so these ones were only fine to me.
+The pearls were chewy, but a bit hard in the center when you bite down on them. I personally like my pearls fresh and chewy, so these ones were only okay to me.
 
 The drink was still cold even though there was no ice in it. She filled it to the top, so you get more tea when you order no ice. I've never ordered 0% ice before, but this ice level is a game changer for me.
 
