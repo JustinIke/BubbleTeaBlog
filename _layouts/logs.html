@@ -17,8 +17,8 @@ layout: default
         <th>Date</th>
         <th>Location</th>
         <th>Order</th>
-        <th>Price</th>
         <th>Toppings</th>
+        <th>Price</th>
         <th>Buy Again?</th>
       </tr>
       {%- for log in site.logs -%}
@@ -26,8 +26,8 @@ layout: default
           <td>{{ log.date | date: date_format }}</td>
           <td>{{ log.location | escape }}</td>
           <td><div>{{ log.order }}</div><div class="log-details">{{ log.details }}</div></td>
-          <td>{{ log.price }}</td>
           <td>{{ log.pearls }}</td>
+          <td>{{ log.price }}</td>
           <td>{{ log.buy_again }}</td>
         </tr>
       {%- endfor -%}
