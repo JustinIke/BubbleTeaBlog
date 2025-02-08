@@ -5,5 +5,5 @@ order: Boba Tea Kit Variety
 details: 12 Count From Costco
 price: $19.99
 pearls: Pearls
-buy_again: Maybe
+buy_again: N
 ---
