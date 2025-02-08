@@ -1,9 +1,9 @@
 ---
-date: 2024-04-13T17:08:40.128Z
-location: Kirin
-order: Milk Tea Drink
-details: 1.5L
-price: $5.55
-pearls: N/A
+date: 2024-03-30T16:11:10.475Z
+location: Kung Fu Tea
+order: Winter Melon w Lemon
+details: Large, Light ice
+price: "5.24"
+pearls: Brown Sugar Pearls
 buy_again: Y
 ---
